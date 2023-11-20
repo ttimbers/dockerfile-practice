@@ -1,4 +1,4 @@
-# Author: Tiffany A. Timbers
+# Author: Tiffany Timbers
 
 FROM debian:stable
 
